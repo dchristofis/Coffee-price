@@ -1,1 +1,1 @@
-# Coffee-price
+# Coffee-rating
